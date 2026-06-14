@@ -1,10 +1,11 @@
 # CMD Mechanisms
 
 A catalog of concrete mechanisms in the Christian Mechanism Design family. Each
-one names the word-deed gap it closes, the scripture it operationalizes, and the
-structural property doing the work. The pattern is always the same: take a
-verse that has been read for two thousand years as exhortation, and read it
-instead as a mechanism specification.
+one names the word-deed gap it closes, the moral it carries, and the structural
+property doing the work. The pattern is always the same, and it runs one
+direction only: take the moral a sermon teaches, and carry it as the intent
+behind an ordinary, secular mechanism. We never turn the holy act itself into
+code. That would be Babel. See [`orientation.md`](orientation.md).
 
 ## 1. Almsgiving without the left hand
 
@@ -58,10 +59,14 @@ the seat of honor on the strength of profession rather than deed.
 ## To design
 
 Open slots in the catalog. Each is a verse waiting to be read as a mechanism.
+Every one is bound by [`orientation.md`](orientation.md): we code the moral into
+the intent, we never build a digital sacrament. Throne, not Babel.
 
-- **Confession as commit of defection.** A private, costly acknowledgment that
-  binds future behavior, read as the commit phase of a self-correction loop
-  (Matthew 5:23-24, reconcile before you offer).
+- **Reconciliation before funding.** Not "confession as code," which would be
+  Babel. Instead the moral of confession, honest self-accounting and reconciling
+  before you bring your gift, carried as intent into a secular dispute process: a
+  shared treasury that requires parties to reconcile in good faith and on the
+  record before a contested proposal can be funded (Matthew 5:23-24).
 - **The narrow gate as a voluntary high-cost entry filter** that selects for
   commitment without compelling it (Matthew 7:13-14).
 - **Forgiveness as a debt-clearing mechanism** that prevents a community from

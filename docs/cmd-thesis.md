@@ -61,7 +61,9 @@ payoff-maximizing path, so the gap closes from the design side.
 ## 4. A worked mechanism: almsgiving without the left hand
 
 "When you give to the needy, do not let your left hand know what your right hand
-is doing" (Matthew 6:3). Read as a mechanism specification, this is a
+is doing" (Matthew 6:3). We are not digitizing almsgiving; that would be Babel.
+We take the moral it teaches, give without seeking to be seen, and let it shape
+the intent of an ordinary secular mechanism: a mutual-aid pool built as a
 commit-reveal scheme with the individual reveal permanently suppressed.
 
 Design a mutual-aid covenant:

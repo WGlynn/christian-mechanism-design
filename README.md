@@ -7,6 +7,19 @@ structural gap the other cannot reach alone.
 It is not a religious argument. It is the logical conclusion of taking both
 seriously at the same time.
 
+> **Keystone:** CMD codes the morals of the sermons into the *intent behind* a
+> mechanism. It never builds a mechanism that replaces a sacrament. The order is
+> one direction: sermon to moral to design intent to mechanism. Throne, not
+> Babel. Read [`docs/orientation.md`](docs/orientation.md) before anything else.
+
+Two things that make this strong:
+
+1. You do not have to be a Christian to want Christians, or anyone, to act
+   better. The mechanisms are useful to a designer of any faith or none.
+2. There can be a mechanism-design family for any moral tradition. This is one
+   instance. Christianity is the tradition the author puts his faith in, so it
+   is where the work starts and where the bet is placed.
+
 ## The two gaps
 
 **Mechanism design cannot reach intent.**
@@ -63,9 +76,12 @@ professed values. Hypocrisy is overcome by design, not only by willpower.
 
 Each makes the other reach further. That is the bidirectional improvement.
 
-## Scripture as mechanism primitives
+## The sermons as design intent
 
-| Passage | Mechanism primitive |
+Each row is a moral the sermons teach, and the design intent it shapes. The
+passage is the source of the moral, not a spec to be digitized.
+
+| Passage | Moral, carried as design intent |
 |---|---|
 | Matthew 5:37, let your yes be yes | Honesty as a load-bearing structural property |
 | Matthew 16:24, take up your cross | Voluntary costly commitment device |
