@@ -91,6 +91,8 @@ Mechanism Design: augment an invariant, never replace freedom or conviction.
 Conceptual spec, opened 2026-06-14. Complete means ready for critique, not
 finished. The long form, with the formal airgap argument, a worked mechanism,
 and the standing objections, is in [`docs/cmd-thesis.md`](docs/cmd-thesis.md).
+Concrete mechanisms are catalogued in
+[`docs/mechanisms.md`](docs/mechanisms.md).
 
 ## License
 
