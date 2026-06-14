@@ -223,15 +223,53 @@ Each connection stated precisely.
   as a behavior-aligning constraint) and lets it carry the load, instead of
   relying on exhortation or policy.
 
-## 9. Open questions and build order
+## 9. Failure modes
 
-Still open, the slow burn:
+A mechanism can pass the Babel test and still fail. Two named modes.
 
-- Is clause 1 worth formalizing fully, or is its lineage enough for our purposes?
-- Failure modes: how does a CMD mechanism go wrong even when it passes the Babel
-  test? (Goodhart on fruit-scoring is the first candidate.)
-- Coercion creep: does community adoption make "voluntary entry" a fiction, and
-  what structural guard answers that?
+**Goodhart on fruit-scoring.** The Pharisee filter scores fruit. Once fruit is
+the target, agents optimize the measure of fruit, not fruit, and hypocrisy
+re-emerges one level up as performative fruit. Mitigation direction: score
+realized downstream value, which is hard to fake because it requires others to
+actually rely on the work; decay the score, so no one-time game can be banked;
+and attribute over the whole dependency graph (Shapley, pairwise) rather than
+through a single proxy. Honest concession: no scoring is fully Goodhart-proof.
+The mitigations bound the drift, they do not remove it.
+
+**Coercion creep.** Voluntary entry can become coercive when a community's
+adoption makes non-participation socially costly. Structural guard: every entry
+must carry a real, low-friction exit. A commitment device with a costly-but-clean
+exit preserves voluntariness; one that punishes exit is a cage. The cross is
+taken up, and it must be possible to set it down. Honest residual: social
+pressure is itself an airgap phenomenon, off-chain, so CMD cannot structurally
+guarantee voluntariness. It can only make formal exit cheap and refuse any
+mechanism that penalizes leaving.
+
+## 10. Enforcement philosophy
+
+CMD never relies on legal or external enforcement for the moral layer. The
+license is the case study.
+
+CC0 surrenders the legal claim, yet copying without attribution remains immoral.
+The duty to attribute lives in the airgap, reachable only by the copier's
+conscience, never by the license. This is not a weakness of CC0. It is CMD
+applied to its own authorship: the legal layer was never the right enforcer for a
+moral duty, so the framework removes the legal pretense rather than maintain a
+claim it cannot morally ground. CC0 is therefore the consistent license for CMD,
+not a generous afterthought.
+
+The victory condition follows. It is propagation, not control. An idea released
+into the ether that makes the world better has already won, attributed or not.
+The internalized enforcer is the only thing that ever reached the moral, so the
+framework stops pretending otherwise and bets on the idea, not on owning it.
+
+## 11. Still open, and build order
+
+- Is clause 1 (section 4) worth formalizing fully, or is its lineage enough?
+- Are the section 9 mitigations sufficient, or is there a failure mode neither
+  Goodhart nor coercion-creep names?
+- Does the enforcement philosophy of section 10 hold for every CMD mechanism, or
+  only for authorship?
 
 Build order: nothing is built until its dependency in sections 1 through 6 is
 solid. The catalog waits. The theory comes first, on purpose.
