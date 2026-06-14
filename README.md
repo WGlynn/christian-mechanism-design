@@ -94,4 +94,6 @@ and the standing objections, is in [`docs/cmd-thesis.md`](docs/cmd-thesis.md).
 
 ## License
 
-MIT.
+No rights reserved. Copyright protects expression, not ideas, and the idea is
+the point, so nothing here is claimed. Dedicated to the public domain (CC0 1.0).
+Take it and build. See [`LICENSE`](LICENSE).
