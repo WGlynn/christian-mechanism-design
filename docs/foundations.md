@@ -37,7 +37,10 @@ these are sharp.
 - **The airgap.** The region of u that no purely economic mechanism can observe
   or contract on. For any mechanism acting only on observable signals, there
   exist preference profiles where the agent's optimal action under private u
-  diverges undetectably from the intended one.
+  diverges undetectably from the intended one. The precise pairing between a
+  mechanism invariant and a moral commitment, the closure of this gap from both
+  sides of the observable-private line, is stated in
+  [`correspondence.md`](correspondence.md).
 - **Internalized enforcer.** A change in u itself, not an external penalty added
   on top of u. It moves the agent's true preferences, not their constraints.
 - **Moral-into-intent.** The one-directional map: sermon, then moral, then design

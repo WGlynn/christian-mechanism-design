@@ -39,7 +39,10 @@ has a ceiling too.
 
 ## Why they fit
 
-The two ceilings are the same shape, pointed in opposite directions.
+The two ceilings are the same shape, pointed in opposite directions. The precise
+pairing, the moral commitment and the mechanism invariant as two closures of one
+gap from opposite sides of the observable-private line, is in
+[`docs/correspondence.md`](docs/correspondence.md).
 
 **Christianity supplies what mechanism design lacks: an internalized enforcer.**
 Taking up one's cross (Matthew 16:24) is a voluntary, costly, internalized
