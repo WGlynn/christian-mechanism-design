@@ -105,6 +105,17 @@ Mechanism Design: augment an invariant, never replace freedom or conviction.
   truth to function, which is what keeps it from being either proselytizing or
   cynical.
 
+## Case studies
+
+Worked instances — each one a sermon supplying a *telos* and a guardrail a mechanism
+cannot supply for itself, and the mechanism turning the sermon from exhortation into
+default behavior.
+
+- [The Simplicity Loop (pruning for fruit)](docs/case-studies/simplicity-loop.md) —
+  John 15:2. Prune dead *and* excess complexity for more fruit (understanding, adoption,
+  security), never compromising the goal. The moral is what makes a complexity-reducing
+  mechanism safe to run at all.
+
 ## Status
 
 Conceptual spec, opened 2026-06-14. Complete means ready for critique, not
